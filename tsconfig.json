@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
     "target": "es2020",
-    "module": "commonjs",
     "moduleResolution": "node",
-    "sourceMap": true,
-    "esModuleInterop": true,
-    "noEmitOnError": false,
     "outDir": "dist",
+    "sourceMap": true,
+    "noEmitOnError": false,
+    "esModuleInterop": true,
     "lib": ["DOM"]
   },
-  "lib": ["es2015"]
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
 }

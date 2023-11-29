@@ -49,7 +49,7 @@ You can safely remove everything in ./src/ to get started.
 
 ### ./src/index.ts
 
-Contains an small example of a very basic workflow:
+Contains a small example of a very basic workflow:
 
 - Initiate a Chromium instance with the stealth library, which tries to make the browser undetectable for protected websites.
 - Create a browser page and navigate to https://whatismyipaddress.com

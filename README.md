@@ -118,7 +118,7 @@ Many websites will block you if you use the same IP address to access them in yo
 ## To-do's
 
 - Add ORM support
-- Virtual screen for headful browsing on VPS (see [xvfb](https://www.npmjs.com/package/xvfb)). Be careful, as every xvfb.startSync() starts a new instance without closing the previous one, so you might accidentally spawn them until they consume all of your resources.
+- Virtual screen for headful browsing on VPS (see [xvfb](https://www.npmjs.com/package/xvfb)). Be careful, as every `xvfb.startSync()` starts a new instance without closing the previous one, so you might accidentally spawn them until they consume all of your resources.
 - Excel driver library (I am probably going to write my custom one)
 - 2captcha library
 - ESM support?

@@ -35,9 +35,13 @@ Step-by-step:
 
     npm start
 
-One-line: 
+One-line (Unix): 
 
     git clone https://github.com/nonme/TypescriptStarter && cd ./TypescriptStarter && npm install && npx playwright install
+    
+One-line (Windows):
+
+    git clone https://github.com/nonme/TypescriptStarter;cd ./TypescriptStarter;npm install;npx playwright install
 
 You can safely remove everything in ./src/ to get started.
 

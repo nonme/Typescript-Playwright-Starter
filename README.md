@@ -26,10 +26,16 @@ Quickly jump to [Dependencies](#Dependencies) to see what's included.
 
 ## Getting started
 
-    git clone https://github.com/nonme/TypescriptStarter
-    npm install
-    npx playwright install
-    npm start
+`git clone https://github.com/nonme/TypescriptStarter`
+
+`npm install`
+
+`npx playwright install`
+
+`npm start`
+
+OR 
+`git clone https://github.com/nonme/TypescriptStarter && cd ./TypescriptStarter && npm install && npx playwright install`
 
 You can safely remove everything in ./src/ to get started.
 

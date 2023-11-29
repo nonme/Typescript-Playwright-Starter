@@ -45,7 +45,7 @@ Contains an small example of a very basic workflow:
 
 ### ./src/libs.ts
 
-Contains basic examples of using all utility dependencies - see [Utilities](###utilities).
+Contains basic examples of using all utility dependencies - see [Utilities](#utilities).
 
 ## Side notes
 
